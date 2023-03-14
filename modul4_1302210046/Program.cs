@@ -49,6 +49,7 @@ namespace modul4_1302210046
 
                         if (command == "W")
                             state = State.Terbang;
+
                         else if (command == "S")
                             state = State.Jongkok;
                         break;
@@ -76,7 +77,7 @@ namespace modul4_1302210046
                         break;
                 }
                 }
-                Console.WriteLine("EXIT SCREEN");
+                
         }
     }
 }
