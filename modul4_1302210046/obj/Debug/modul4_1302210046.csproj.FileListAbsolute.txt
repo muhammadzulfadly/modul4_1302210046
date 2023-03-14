@@ -1,0 +1,8 @@
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210046\modul4_1302210046\bin\Debug\modul4_1302210046.exe.config
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210046\modul4_1302210046\bin\Debug\modul4_1302210046.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210046\modul4_1302210046\bin\Debug\modul4_1302210046.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210046\modul4_1302210046\obj\Debug\modul4_1302210046.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210046\modul4_1302210046\obj\Debug\modul4_1302210046.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210046\modul4_1302210046\obj\Debug\modul4_1302210046.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210046\modul4_1302210046\obj\Debug\modul4_1302210046.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210046\modul4_1302210046\obj\Debug\modul4_1302210046.pdb
